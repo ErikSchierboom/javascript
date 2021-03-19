@@ -1,10 +1,73 @@
 {
   "blurb": "Given a string of digits, calculate the largest product for a contiguous substring of digits of length n.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "matthewmorgan"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andreasolund"
+    },
+    {
+      "github_username": "ankorGH"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "ovidiu141"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "petertseng"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "rchavarria"
+    },
+    {
+      "github_username": "ryanplusplus"
+    },
+    {
+      "github_username": "serixscorpio"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    },
+    {
+      "github_username": "xarxziux"
+    }
+  ],
   "files": {
-    "solution": ["largest-series-product.js"],
-    "test": ["largest-series-product.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "largest-series-product.js"
+    ],
+    "test": [
+      "largest-series-product.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "A variation on Problem 8 at Project Euler",
   "source_url": "http://projecteuler.net/problem=8"

@@ -1,10 +1,58 @@
 {
   "blurb": "Create a sentence of the form \"One for X, one for me.\"",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "laurmurclar"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "mluisamc"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "serixscorpio"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    }
+  ],
   "files": {
-    "solution": ["two-fer.js"],
-    "test": ["two-fer.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "two-fer.js"
+    ],
+    "test": [
+      "two-fer.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source_url": "https://github.com/exercism/problem-specifications/issues/757"
 }

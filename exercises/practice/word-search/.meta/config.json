@@ -1,9 +1,60 @@
 {
   "blurb": "Create a program to solve a word search puzzle.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "matthewmorgan"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "hyuko21"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "ivanvotti"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "msomji"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "rchavarria"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    }
+  ],
   "files": {
-    "solution": ["word-search.js"],
-    "test": ["word-search.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "word-search.js"
+    ],
+    "test": [
+      "word-search.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   }
 }

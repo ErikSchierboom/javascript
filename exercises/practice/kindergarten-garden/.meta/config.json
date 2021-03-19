@@ -1,10 +1,64 @@
 {
   "blurb": "Given a diagram, determine which plants each child in the kindergarten class is responsible for.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rchavarria"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andreasolund"
+    },
+    {
+      "github_username": "brendanmckeown"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "ryanplusplus"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    },
+    {
+      "github_username": "xarxziux"
+    }
+  ],
   "files": {
-    "solution": ["kindergarten-garden.js"],
-    "test": ["kindergarten-garden.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "kindergarten-garden.js"
+    ],
+    "test": [
+      "kindergarten-garden.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "Random musings during airplane trip.",
   "source_url": "http://jumpstartlab.com"

@@ -1,10 +1,79 @@
 {
   "blurb": "Given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "matthewmorgan"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "abhnvgupta"
+    },
+    {
+      "github_username": "alexashley"
+    },
+    {
+      "github_username": "andreasolund"
+    },
+    {
+      "github_username": "BoDaly"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "IndelicateArgot"
+    },
+    {
+      "github_username": "javaeeeee"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "rchavarria"
+    },
+    {
+      "github_username": "ryanplusplus"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "smb26"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    }
+  ],
   "files": {
-    "solution": ["queen-attack.js"],
-    "test": ["queen-attack.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "queen-attack.js"
+    ],
+    "test": [
+      "queen-attack.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "J Dalbey's Programming Practice problems",
   "source_url": "http://users.csc.calpoly.edu/~jdalbey/103/Projects/ProgrammingPractice.html"

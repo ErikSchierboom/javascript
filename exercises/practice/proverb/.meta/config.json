@@ -1,10 +1,64 @@
 {
   "blurb": "For want of a horseshoe nail, a kingdom was lost, or so the saying goes. Output the full text of this proverbial rhyme.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "skabbass1"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ankorGH"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "rchavarria"
+    },
+    {
+      "github_username": "serixscorpio"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    },
+    {
+      "github_username": "xarxziux"
+    }
+  ],
   "files": {
-    "solution": ["proverb.js"],
-    "test": ["proverb.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "proverb.js"
+    ],
+    "test": [
+      "proverb.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "Wikipedia",
   "source_url": "http://en.wikipedia.org/wiki/For_Want_of_a_Nail"

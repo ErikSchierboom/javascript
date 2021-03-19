@@ -1,10 +1,55 @@
 {
   "blurb": "Score a bowling game",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "trvrfrd"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "danielj-jordan"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    }
+  ],
   "files": {
-    "solution": ["bowling.js"],
-    "test": ["bowling.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "bowling.js"
+    ],
+    "test": [
+      "bowling.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "The Bowling Game Kata at but UncleBob",
   "source_url": "http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata"

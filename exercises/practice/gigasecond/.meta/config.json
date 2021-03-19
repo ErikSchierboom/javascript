@@ -1,10 +1,73 @@
 {
   "blurb": "Given a moment, determine the moment that would be after a gigasecond has passed.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rchavarria"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andreasolund"
+    },
+    {
+      "github_username": "ankorGH"
+    },
+    {
+      "github_username": "draalger"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "ryanplusplus"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "trvrfrd"
+    },
+    {
+      "github_username": "Tyresius92"
+    },
+    {
+      "github_username": "xarxziux"
+    }
+  ],
   "files": {
-    "solution": ["gigasecond.js"],
-    "test": ["gigasecond.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "gigasecond.js"
+    ],
+    "test": [
+      "gigasecond.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "Chapter 9 in Chris Pine's online Learn to Program tutorial.",
   "source_url": "http://pine.fm/LearnToProgram/?Chapter=09"

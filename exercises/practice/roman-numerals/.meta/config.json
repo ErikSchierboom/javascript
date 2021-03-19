@@ -1,10 +1,67 @@
 {
   "blurb": "Write a function to convert from normal numbers to Roman Numerals.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rchavarria"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andreasolund"
+    },
+    {
+      "github_username": "ankorGH"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "ryanplusplus"
+    },
+    {
+      "github_username": "serixscorpio"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    }
+  ],
   "files": {
-    "solution": ["roman-numerals.js"],
-    "test": ["roman-numerals.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "roman-numerals.js"
+    ],
+    "test": [
+      "roman-numerals.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "The Roman Numeral Kata",
   "source_url": "http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals"

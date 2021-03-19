@@ -1,10 +1,58 @@
 {
   "blurb": " Given the size, return a square matrix of numbers in spiral order.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "MattH-be"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ankorGH"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "rchavarria"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    },
+    {
+      "github_username": "xarxziux"
+    }
+  ],
   "files": {
-    "solution": ["spiral-matrix.js"],
-    "test": ["spiral-matrix.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "spiral-matrix.js"
+    ],
+    "test": [
+      "spiral-matrix.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "Reddit r/dailyprogrammer challenge #320 [Easy] Spiral Ascension.",
   "source_url": "https://www.reddit.com/r/dailyprogrammer/comments/6i60lr/20170619_challenge_320_easy_spiral_ascension/"

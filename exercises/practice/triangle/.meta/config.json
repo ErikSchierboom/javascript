@@ -1,10 +1,70 @@
 {
   "blurb": "Determine if a triangle is equilateral, isosceles, or scalene.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rchavarria"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andreasolund"
+    },
+    {
+      "github_username": "ankorGH"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "lantran"
+    },
+    {
+      "github_username": "matthewmorgan"
+    },
+    {
+      "github_username": "msomji"
+    },
+    {
+      "github_username": "ovidiu141"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "ryanplusplus"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    },
+    {
+      "github_username": "WebCu"
+    }
+  ],
   "files": {
-    "solution": ["triangle.js"],
-    "test": ["triangle.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "triangle.js"
+    ],
+    "test": [
+      "triangle.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "The Ruby Koans triangle project, parts 1 & 2",
   "source_url": "http://rubykoans.com"

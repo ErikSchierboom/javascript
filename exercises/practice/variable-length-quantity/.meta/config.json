@@ -1,10 +1,55 @@
 {
   "blurb": "Implement variable length quantity encoding and decoding.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "matthewmorgan"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ankorGH"
+    },
+    {
+      "github_username": "G-Rath"
+    },
+    {
+      "github_username": "gargrave"
+    },
+    {
+      "github_username": "hayashi-ay"
+    },
+    {
+      "github_username": "iagocavalcante"
+    },
+    {
+      "github_username": "paparomeo"
+    },
+    {
+      "github_username": "PSalant726"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "smb26"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "Tyresius92"
+    }
+  ],
   "files": {
-    "solution": ["variable-length-quantity.js"],
-    "test": ["variable-length-quantity.spec.js"],
-    "example": [".meta/proof.ci.js"]
+    "solution": [
+      "variable-length-quantity.js"
+    ],
+    "test": [
+      "variable-length-quantity.spec.js"
+    ],
+    "example": [
+      ".meta/proof.ci.js"
+    ]
   },
   "source": "A poor Splice developer having to implement MIDI encoding/decoding.",
   "source_url": "https://splice.com"
